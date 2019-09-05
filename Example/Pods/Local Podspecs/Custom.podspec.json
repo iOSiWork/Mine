@@ -1,0 +1,22 @@
+{
+  "name": "Custom",
+  "version": "0.1.0",
+  "summary": "A short description of Custom.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/iosiwork@163.com/Custom",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "iosiwork@163.com": "fengkai@87.cn"
+  },
+  "source": {
+    "git": "https://github.com/iosiwork@163.com/Custom.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "Custom/Classes/**/*"
+}
